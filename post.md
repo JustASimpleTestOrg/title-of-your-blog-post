@@ -15,7 +15,7 @@ Links are easy! Here's link back to [Your post contributions](/posts/me). Here's
 ### Headings
 
 ## Use h2 for headings
-
+ headings headings
 - h1 is already taken by your post's title, so don't use single # h1 headings
 
 ### h3 are good for sub-headings
